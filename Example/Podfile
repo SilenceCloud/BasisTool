@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BasisTool_Example' do
+  pod 'BasisTool', :path => '../'
+
+  target 'BasisTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
