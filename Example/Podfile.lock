@@ -1,0 +1,23 @@
+PODS:
+  - Aspects (1.4.1)
+  - BasisTool (1.0.0):
+    - Aspects
+
+DEPENDENCIES:
+  - BasisTool (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Aspects
+
+EXTERNAL SOURCES:
+  BasisTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  BasisTool: 4c22708b5e08f8f7a7fbdc51b4ead856d20e14f5
+
+PODFILE CHECKSUM: 999d5c872d0c093becaea1d3e9d7b235b847fb82
+
+COCOAPODS: 1.5.3
